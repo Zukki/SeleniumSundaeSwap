@@ -39,5 +39,3 @@ df.info()
 
 # %%
 df.head(5)
-
-
